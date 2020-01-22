@@ -1,0 +1,15 @@
+Example,Type,Price,Category
+CD1, HipHop, Expensive, Yes
+CD2, Rock, Cheap, Yes
+CD3, Rock, Expensive, Yes
+CD4, HipHop, Cheap, Yes
+CD5, Jazz, Cheap, Yes
+CD6, Rock, Expensive, No
+CD7, Jazz, Expensive, No
+CD8, Jazz, Cheap, No
+CD9, HipHop, Expensive, Yes
+CD10, Jazz, Expensive, No
+CD11, Rock, Expensive, No
+CD12, Jazz, Cheap, Yes
+CD13, Rock, Expensive, No
+
