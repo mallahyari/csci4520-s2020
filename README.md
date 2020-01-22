@@ -47,7 +47,7 @@ After training is done, evaluate your decision tree and measure the accuracy usi
 
 ### **Programming Decision Tree [30 Points]**
 
-In this Assignment, you will utilize `scikit-learn`, a python machine learning library, to train a decision tree on the [training-dataset](dt-traindata.csv) and test it on our "buy-CD" [test-dataset](dt-testdata.csv).
+In this Assignment, you will utilize `scikit-learn`, a python machine learning library, to train a decision tree on the [training-dataset](train.csv) and test it on our "buy-CD" [test-dataset](test.csv).
 
 Before starting this programming exercise, you will need to make certain that you are working on a computer with the following particular software:
 
